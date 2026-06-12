@@ -1,0 +1,13 @@
+{
+  "name": "tencent-docs-webhook",
+  "version": "1.0.0",
+  "description": "监考系统上报 -> 腾讯文档",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7"
+  }
+}
